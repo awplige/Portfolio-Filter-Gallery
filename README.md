@@ -1,6 +1,8 @@
 A super easy way to create beautiful and responsive portfolio filter gallery to your WordPress site.
 GALLERY PRO FEATURES AND DEMO
 
+https://www.youtube.com/watch?v=F5XDZ6blMQE
+
     Demo for Lite and Pro Version
 
         Portfolio Filter Gallery Premium
